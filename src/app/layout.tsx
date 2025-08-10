@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster"
 
 
 export const metadata: Metadata = {
-  title: 'SaaSify',
+  title: 'FiveStack',
   description: 'We Build Next-Gen Web & App Experiences',
 };
 
